@@ -1,0 +1,19 @@
+{
+  "name": "freenly",
+  "version": "1.0.0",
+  "description": "Building Ecommerce website from the scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanwarAyush/freenly.git"
+  },
+  "author": "Ayush panwar, ayush kumar , Aditya sharma & Bhumit Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanwarAyush/freenly/issues"
+  },
+  "homepage": "https://github.com/PanwarAyush/freenly#readme"
+}
