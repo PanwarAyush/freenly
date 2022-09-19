@@ -1,0 +1,10 @@
+body{
+    font-family: serif;
+}
+.navbar{
+    background-color:#16213E;
+}
+.navbar-brand
+{
+    font-size: 3rem;
+}
